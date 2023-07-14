@@ -1,0 +1,8 @@
+{
+    "name": "robinncode/entobn",
+    "description": "It's an helper package to trnaslate date, digits, time, money, money in words etc in bengali language.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
